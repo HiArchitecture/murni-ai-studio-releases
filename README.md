@@ -1,6 +1,6 @@
 # Murni AI Studio pour Mac
 
-Installeurs et mises à jour d'**Murni AI Studio**, l'application de retouche de rendus d'architecture par IA de
+Installeurs et mises à jour de **Murni AI Studio**, l'application de retouche de rendus d'architecture par IA de
 [Hi architecture detail](https://hiarchitecturedetail.com).
 
 **[Télécharger Murni AI Studio pour Mac (Apple Silicon)](https://github.com/HiArchitecture/murni-ai-studio-releases/releases/latest/download/Murni-AI-Studio-arm64.dmg)**
